@@ -7,7 +7,7 @@ description: This has been patched on some codebases. Check before trying.
 So, you've figured out how to make turbines. Now what?
 
 I will teach you how to turn this:\
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Into this:\
 ![](<../.gitbook/assets/image (1).png>)
