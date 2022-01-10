@@ -1,4 +1,4 @@
-# About
+# Readme
 
 Welcome. This is the SS13 Knowledgebase(II)'s gitbook, founded by BRBDOGONFIRE & Marquis Fury.
 
