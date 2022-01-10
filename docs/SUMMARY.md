@@ -1,5 +1,6 @@
 # Table of contents
 
-* [CODE\_OF\_CONDUCT](README.md)
+* [README](../README.md)
+* [CODE\_OF\_CONDUCT](code\_of\_conduct.md)
 * [Contributing](CONTRIBUTING.md)
-* [About](<README (1).md>)
+* [About](about.md)
