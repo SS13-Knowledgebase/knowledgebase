@@ -1,10 +1,8 @@
 # Contributing
 
-If you'd like to contribute to the knowledgebase, you can either do so via the GitHub, which, while being harder to edit, is a lot easier to access, or in Gitbook via the links below.
+If you'd like to contribute to the knowledgebase, you can either do so via [GitHub](https://github.com/SS13-Knowledgebase), or in Gitbook via the links below.
 
 Do note that you need to join each space via a link to gain editorial access, in which you can perform a change request. Otherwise, they won't show up in the "Knowledgebase" collection when trying to edit.
-
-##
 
 <details>
 
@@ -30,11 +28,32 @@ Do note that you need to join each space via a link to gain editorial access, in
 
 If you wish to create a new space, DM an admin of the Gitbook in the [Discord](https://discord.gg/fcUAEUkmQ5), and state your reasons as to why.
 
+### Editing on Github
+
+Gitbook has some rules you need to follow in order to parse content correctly:
+
+* Content must start with a `# Title` at the beginning.&#x20;
+* Content must be located within the specified paths within `.gitbook.yaml` at the top level. Not every repo has this declared.
+* Gitbook sync's can be wonky, stash or save your edits in an external editor when pulling changes in case something janky happens.
+* Gitbook adds various tags that are probably only important to its own systems. Ex.
+
+```
+---
+description: From the original Knowledgebase
+---
+
+# Collection of Premade Circuits
+
+```
+
+* This is the beginning of a  file whose title is `Collection of Premade Circuits` and whose description is `From the original Knowledgebase`.
+* Sync content to a private personal gitbook (you don't even need to do any git commands to sync the repoistory) to see how Gitbook will parse your content if you're lost on how to perform some more advanced integration such as media etc.
+
 ## Banned content
 
 Do not add any of the following in a Pull Request or risk getting the PR closed:
 
-* Any sort of griefing resource (ban evading, server-crashing exploits, etc.). If you want to report a bug do so in the appropriate codebase.
+* Any sort of griefing resource (ban evading, server-crashing exploits, etc.). If you want to report a bug do so in the appropriate codebase. Note that this is directed explicitly towards grief-related resources - not exploiting an oversight for the purposes of powergaming.
 * National Socialist Party of Germany content, National Socialist Party of Germany related content, or National Socialist Party of Germany references
 * Anything which violates GitHub's [terms of service](https://github.com/site/terms) or Gitbook's [terms of service](https://policies.gitbook.com/terms)
 
