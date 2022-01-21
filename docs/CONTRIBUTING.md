@@ -34,6 +34,7 @@ Gitbook has some rules you need to follow in order to parse content correctly:
 
 * Content must start with a `# Title` at the beginning.&#x20;
 * Content must be located within the specified paths within `.gitbook.yaml` at the top level. Not every repo has this declared.
+* If you make a new file it must be added to `Summary.md` or whatever the configuration inside `.gitbook.yaml` points to as a summary.
 * Gitbook sync's can be wonky, stash or save your edits in an external editor when pulling changes in case something janky happens.
 * Gitbook adds various tags that are probably only important to its own systems. Ex.
 
