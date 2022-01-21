@@ -8,11 +8,11 @@ Knowledgebase is an open-source project distributed as public domain under Unlic
 
 ### [GitBook](https://ss13-knowledgebase.gitbook.io/knowledgebase/)
 
-* [Atmos](https://app.gitbook.com/o/Dg5Pm9MzD4nnkhPLD4OV/s/IHU5Xm8zh7ojnSQeOfl8/)
-* [Chemistry](https://app.gitbook.com/o/Dg5Pm9MzD4nnkhPLD4OV/s/1T47Q6NHswntfqPw2Ji4/)
-* [Circuitry](https://app.gitbook.com/o/Dg5Pm9MzD4nnkhPLD4OV/s/vho8rxbUZzxZK1WROYXA/)
-* [Toxins](https://app.gitbook.com/o/Dg5Pm9MzD4nnkhPLD4OV/s/kN0776Gm56cXTnYTyuon/)
-* [Botany](https://app.gitbook.com/o/Dg5Pm9MzD4nnkhPLD4OV/s/OlR31uljZRuQt8ZscPDQ/)
+* [Atmos](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/atmos/)
+* [Chemistry](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/chemistry/)
+* [Circuitry](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/circuitry/)
+* [Toxins](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/toxins/)
+* [Botany](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/botany/)
 
 ### GitHub
 
