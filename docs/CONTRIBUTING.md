@@ -1,8 +1,12 @@
 # Contributing
 
-If you'd like to contribute to the knowledgebase, you can either do so via [GitHub](https://github.com/SS13-Knowledgebase), or in Gitbook via the links below.
+If you'd like to contribute to the knowledgebase, you can either do so via [GitHub](https://github.com/SS13-Knowledgebase).
 
+You can also make pages using Gitbook, the preferred method, as it's easier and cleaner to edit, via the links below.
+
+{% hint style="info" %}
 Do note that you need to join each space via a link to gain editorial access, in which you can perform a change request. Otherwise, they won't show up in the "Knowledgebase" collection when trying to edit.
+{% endhint %}
 
 <details>
 
@@ -32,8 +36,8 @@ If you wish to create a new space, DM an admin of the Gitbook in the [Discord](h
 
 Gitbook has some rules you need to follow in order to parse content correctly:
 
-* ***If you make a new page*** it must be added to `Summary.md` or whatever the configuration inside `.gitbook.yaml` points to as a summary.
-* Content must start with a `# Title` at the beginning.&#x20;
+* _**If you make a new page**_ it must be added to `Summary.md` or whatever the configuration inside `.gitbook.yaml` points to as a summary.
+* Content must start with a `# Title` at the beginning.
 * Content must be located within the specified paths within `.gitbook.yaml` at the top level. Not every repo has this declared.
 * Gitbook sync's can be wonky, stash or save your edits in an external editor when pulling changes in case something janky happens.
 * Gitbook adds various tags that are probably only important to its own systems. Ex.
@@ -44,10 +48,9 @@ description: From the original Knowledgebase
 ---
 
 # Collection of Premade Circuits
-
 ```
 
-* This is the beginning of a  file whose title is `Collection of Premade Circuits` and whose description is `From the original Knowledgebase`.
+* This is the beginning of a file whose title is `Collection of Premade Circuits` and whose description is `From the original Knowledgebase`.
 * Sync content to a private personal gitbook (you don't even need to do any git commands to sync the repoistory) to see how Gitbook will parse your content if you're lost on how to perform some more advanced integration such as media etc.
 
 ## Banned content
