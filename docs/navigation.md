@@ -13,6 +13,7 @@ description: GitBook and GitHub Links
 * [Circuitry](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/circuitry/)
 * [Toxins](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/toxins/)
 * [Botany](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/botany/)
+* [Xenobiology](https://ss13-knowledgebase.gitbook.io/knowledgebase/v/untitled/)
 
 ### GitHub
 
