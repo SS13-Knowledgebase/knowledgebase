@@ -28,6 +28,8 @@ Do note that you need to join each space via a link to gain editorial access, in
 
 [The Misc. Space](https://app.gitbook.com/invite/Dg5Pm9MzD4nnkhPLD4OV/OBx9Foyq2HUPrD1VXKmF)
 
+[The Xenobiology Space](https://app.gitbook.com/invite/Dg5Pm9MzD4nnkhPLD4OV/ncPBeIC2P1LhBMfgiwsj)
+
 </details>
 
 If you wish to create a new space, DM an admin of the Gitbook in the [Discord](https://discord.gg/fcUAEUkmQ5), and state your reasons as to why.
